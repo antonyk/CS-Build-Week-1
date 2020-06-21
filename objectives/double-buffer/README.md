@@ -37,3 +37,5 @@ the current frame becomes the next frame. And the process repeats.
 
 Also note that this approach is vaguely reminiscent of the Model and View in the
 MVC pattern where the Model is manipulated then displayed by the View.
+
+![gameOfLife](img/life.png)
