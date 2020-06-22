@@ -48,3 +48,6 @@ the far side.)
 * [John Conway's Game of
 Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 * [`requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+
+
+![gameOfLife](img/life.png)
